@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+KM-202401,Heritage Damage,Standard,Description contains 'heritage' indicating Heritage Damage with Standard priority.,
+KM-202402,Road Damage,Standard,Description contains 'broken' indicating Road Damage with Standard priority.,
+KM-202405,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+KM-202409,Pothole,Standard,Description contains 'pothole' indicating Pothole with Standard priority.,
+KM-202410,Pothole,Standard,Description contains 'pothole' indicating Pothole with Standard priority.,
+KM-202411,Pothole,Standard,Description contains 'pothole' indicating Pothole with Standard priority.,
+KM-202415,Drain Blockage,Standard,Description contains 'drain' indicating Drain Blockage with Standard priority.,
+KM-202418,Waste,Standard,"Description contains 'waste', 'overflowing' indicating Waste with Standard priority.",
+KM-202421,Road Damage,Urgent,"Description contains 'sinking', 'broken', 'footpath', 'hospital', 'fell' indicating Road Damage with Urgent priority.",
+KM-202422,Road Damage,Standard,Description contains 'road surface' indicating Road Damage with Standard priority.,
+KM-202426,Heritage Damage,Standard,Description contains 'heritage' indicating Heritage Damage with Standard priority.,
+KM-202430,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+KM-202434,Heritage Damage,Standard,Description contains 'heritage' indicating Heritage Damage with Standard priority.,
+KM-202436,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+KM-202438,Heritage Damage,Standard,Description contains 'heritage' indicating Heritage Damage with Standard priority.,

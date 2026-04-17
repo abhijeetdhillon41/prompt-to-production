@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+AM-202402,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+AM-202405,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+AM-202406,Road Damage,Standard,Description contains 'broken' indicating Road Damage with Standard priority.,NEEDS_REVIEW
+AM-202407,Road Damage,Urgent,"Description contains 'broken', 'upturned', 'child' indicating Road Damage with Urgent priority.",
+AM-202410,Pothole,Standard,Description contains 'pothole' indicating Pothole with Standard priority.,
+AM-202414,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+AM-202417,Waste,Standard,Description contains 'waste' indicating Waste with Standard priority.,NEEDS_REVIEW
+AM-202421,Noise,Standard,Description contains 'music' indicating Noise with Standard priority.,
+AM-202424,Road Damage,Standard,Description contains 'road surface' indicating Road Damage with Standard priority.,
+AM-202429,Other,Low,Classified as Other based on overall description context.,NEEDS_REVIEW
+AM-202431,Heritage Damage,Standard,Description contains 'heritage' indicating Heritage Damage with Standard priority.,
+AM-202435,Heat Hazard,Standard,Description contains 'heat' indicating Heat Hazard with Standard priority.,
+AM-202444,Waste,Standard,"Description contains 'waste', 'overflowing' indicating Waste with Standard priority.",
+AM-202445,Road Damage,Standard,Description contains 'broken' indicating Road Damage with Standard priority.,
